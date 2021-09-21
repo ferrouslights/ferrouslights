@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on this github or [https://www.benjy.pro](https://www.benjy.pro)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** or **Styled Components**
 
 - 📫 How to reach me: **You can message me on twitter @bridges_bw**
 
