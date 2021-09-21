@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React** or **Styled Components**
 
-- 📫 How to reach me: **You can message me on twitter <a href="https://twitter.com/bridges_bw" target="blank"*@bridges_bw</a>
+- 📫 How to reach me: <b>You can message me on twitter <a href="https://twitter.com/bridges_bw" target="blank">@bridges_bw</a></b>
 
 - ⚡ Fun fact: **I have too many hobbies. I'd love to chat about anything from carnivorous plants to 3d printing to audio production.**
 
