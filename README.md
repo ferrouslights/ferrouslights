@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrouslights&show_icons=true&locale=en" alt="ferrouslights" /></p>
 -->
 <br/>
-  <p>
+  <p align="center">
   <a href="https://github.com/Hifumi-Sec" width="100%">
     <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ferrouslights&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=false&theme=dark">
     <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrouslights&layout=compact&hide_border=false&theme=dark&langs_count=10">
