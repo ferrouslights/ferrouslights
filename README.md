@@ -13,6 +13,8 @@
 
 - 📫 How to reach me: <b>You can message me on twitter <a href="https://twitter.com/bridges_bw" target="blank">@bridges_bw</a></b>
 
+- 📚 Books I'm Currently Reading: <b>Eloquent Javascript by Marijin Haverbeke, Uzumaki by Junji Ito, and Deviate by Beau Lotto</b>
+
 - ⚡ Fun fact: **I have too many hobbies. I'd love to chat about anything from carnivorous plants to 3d printing to audio production.**
 
 <h3 align="left">Connect with me:</h3>
