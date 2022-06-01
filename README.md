@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">Front End Developer and Creative Thinker</h3>
+<h3 align="center">Front End Developer and Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrouslights&label=Profile%20views&color=0e75b6&style=flat" alt="ferrouslights" /> </p>
 
