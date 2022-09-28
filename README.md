@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bridges_bw" target="blank"><img src="https://img.shields.io/twitter/follow/bridges_bw?logo=twitter&style=for-the-badge" alt="bridges_bw" /></a> </p>
 
-- 🌱 I’m currently learning **ShaderLab, Three.js, and Japanese**
+- 🌱 I’m currently learning **ShaderLab, TopDown Engine, Unity Multiplayer and Japanese**
 
 - 👨‍💻 All of my projects are available on this github or [https://www.benjy.pro](https://www.benjy.pro)
 
