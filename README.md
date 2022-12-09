@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on this github or [https://www.benjy.pro](https://www.benjy.pro)
 
-- 💬 Ask me about **C#**, **React**, or **Styled Components**
+- 💬 Ask me about **C#**, **Unity**, **React**, or **Styled Components**
 
 - 📫 How to reach me: <b>You can message me on twitter <a href="https://twitter.com/bridges_bw" target="blank">@bridges_bw</a></b>
 
