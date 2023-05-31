@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available on this github or [https://www.benjy.pro](https://www.benjy.pro)
 
-- 💬 Ask me about **C#**, **Unity**, **React**, or **Styled Components**
+- 💬 Ask me about **C#**, **Unity**, **React**, or **Lua**
 
 - 📫 How to reach me: <b>You can message me on twitter <a href="https://twitter.com/bridges_bw" target="blank">@bridges_bw</a></b>
 
-- 📚 Books I'm Currently Reading: <b>Eloquent Javascript by Marijin Haverbeke, Uzumaki by Junji Ito, and The Setting Sun by Osamu Dazai</b>
+- 📚 Books I'm Currently Reading: <b>The Setting Sun by Osamu Dazai</b>
 
 - ⚡ Fun fact: **I have too many hobbies. I'd love to chat about anything from carnivorous plants to 3d printing to audio production.**
 
