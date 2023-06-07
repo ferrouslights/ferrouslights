@@ -15,7 +15,7 @@
 
 - 📚 Books I'm Currently Reading: <b>The Setting Sun by Osamu Dazai</b>
 
-- ⚡ Fun fact: **I have too many hobbies. I'd love to chat about anything from carnivorous plants to 3d printing to audio production.**
+- ⚡ Fun fact: **Neovim and synthesizer enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
