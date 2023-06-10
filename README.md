@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bridges_bw" target="blank"><img src="https://img.shields.io/twitter/follow/bridges_bw?logo=twitter&style=for-the-badge" alt="bridges_bw" /></a> </p>
 
-- 🌱 I’m currently learning **ShaderLab, TopDown Engine, Unity Multiplayer and Japanese**
+- 🌱 I’m currently learning **Unity Netcode for GameObjects, Lua, and the PlayDate SDK**
 
 - 👨‍💻 All of my projects are available on this github or [https://www.benjy.pro](https://www.benjy.pro)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: <b>You can message me on twitter <a href="https://twitter.com/bridges_bw" target="blank">@bridges_bw</a></b>
 
-- 📚 Books I'm Currently Reading: <b>The Setting Sun by Osamu Dazai</b>
+- 📚 Books I'm Currently Reading: <b>The Setting Sun by Osamu Dazai, and The Lord of The Rings by J.R.R Tolkien</b>
 
 - ⚡ Fun fact: **Neovim and synthesizer enthusiast**
 
