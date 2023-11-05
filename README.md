@@ -1,40 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Howdy 👋, I'm Ben</h1>
+<h3 align="center">Software Engineer | Game Developer | UI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrouslights&label=Profile%20views&color=0e75b6&style=flat" alt="ferrouslights" /> </p>
+- 🔭 I’m currently working on **A bonsai game for the PlayDate**
 
-<p align="left"> <a href="https://twitter.com/bridges_bw" target="blank"><img src="https://img.shields.io/twitter/follow/bridges_bw?logo=twitter&style=for-the-badge" alt="bridges_bw" /></a> </p>
+- 🌱 I’m currently learning **Unity Networking for GameObjects, Godot, Japanese**
 
-- 🌱 I’m currently learning **Godot, Unity DOTS, Lua, and the PlayDate SDK**
+- 💬 Ask me about **C#, Procedural Generation, Lua**
 
-- 👨‍💻 All of my projects are available on this github or [https://www.benjy.pro](https://www.benjy.pro)
-
-- 💬 Ask me about **C#**, **Unity**, **React**, or **Lua**
-
-- 📫 How to reach me: <b>You can message me on X <a href="https://twitter.com/bridges_bw" target="blank">@bridges_bw</a> or <a href="https://mas.to/@ferro" target="blank">@ferro@mas.to</a> on the fediverse</b>
-
-- 📚 Books I'm Currently Reading: <b>The Setting Sun by Osamu Dazai, and The Lord of The Rings by J.R.R Tolkien</b>
-
-- ⚡ Fun fact: **Neovim and synthesizer enthusiast**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ferrouslights" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ferrouslights" height="30" width="40" target="_blank"/></a>
-<a href="https://twitter.com/bridges_bw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bridges_bw" height="30" width="40" target="_blank"/></a>
-<a href="https://linkedin.com/in/benjamin-bridges-294ab0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin-bridges-294ab0115" height="30" width="40" target="_blank"/></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrouslights&show_icons=true&locale=en" alt="ferrouslights" /></p>
--->
-<br/>
-  <p align="center">
-  <a href="https://github.com/ferrouslights" width="100%">
-    <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ferrouslights&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=false&theme=dark">
-    <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrouslights&layout=compact&hide_border=false&theme=dark&langs_count=10">
-  </a>
-</p>
 
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrouslights&theme=dark&hide_border=false"/>
-  </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrouslights&" alt="ferrouslights" /></p>
