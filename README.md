@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Unity Networking for GameObjects, Godot, Japanese**
 
+- 🧰 I enjoy working on tooling and systems like inventory and crafting systems
+
 - 💬 Ask me about **C#, Procedural Generation, Lua**
 
 <p align="left">
